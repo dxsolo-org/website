@@ -2,6 +2,4 @@
 
 This is really awesome
 
-Now editing on update-readme
-
-update locally
+Updates made on master onb GitHub before rebase
