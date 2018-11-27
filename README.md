@@ -2,4 +2,8 @@
 
 This is really awesome
 
-Updates made on master onb GitHub before rebase
+Updates made on master on GitHub before rebase
+
+## Purpose
+
+This file is just a readme file.
